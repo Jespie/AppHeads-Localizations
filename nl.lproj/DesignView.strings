@@ -1,8 +1,8 @@
-"BACKGROUND_VIEW" = "Background View";
-"BACKGROUND_VIEW_DESCRIPTION" = "Choose the Background View when an AppHead is showing its Live View";
-"LIVE_VIEW_SIZE" = "Set the size of the Live View";
-"CORNER_RADIUS" = "Set the corner radius of the Live View";
-"BORDER_WIDTH" = "Set the border width of the Live View";
+"BACKGROUND_VIEW" = "Achtergrond weergave";
+"BACKGROUND_VIEW_DESCRIPTION" = "Kies de achtergrond voor de Live View van een Apphead";
+"LIVE_VIEW_SIZE" = "Stel de grootte van een Live View in";
+"CORNER_RADIUS" = "Stel de hoekraudius van een Live View in";
+"BORDER_WIDTH" = "Stel de breedte van de rand van de Live View inSet the border width of the Live View";
 "BORDER_COLOR" = "Set the border color of the Live View";
 "BACKGROUND_VIEW_OPTION_LAST_APP" = "Last opened App";
 "BACKGROUMD_VIEW_OPTION_WALLPAPER" = "Current Wallpaper View";
